@@ -8,3 +8,5 @@ My Name is Mohamed Ramadan Issa :octocat:
 - 📫 How to reach me: dom.mohamedramadan@live.com
 - 😄 Pronouns: Issa
 - ⚡ Badges: https://www.credly.com/earner/earned
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
