@@ -3,7 +3,9 @@
 My Name is Mohamed Ramadan Issa :octocat:
 
 - 🔭 I’m currently working on lots of Cloud platform engineering and DevSecOps and MLOps related tools
-- 👯 I’m looking to collaborate on maintain cloud and on-premise platforms infrastructure and applications run-time
+- I am a fan of solution and platforms architecture , writing GO and Python.
+- I used to work for IBM FileNet , IBM Business Automation Workflow and IBM WatsonX products
+- 👯 I’m looking to collaborate on maintain cloud and on-premise platforms infrastructure , Java applications run-time, Kubernetest native applications
 - 💬 Ask me about "Solutions architecture"
 - 📫 How to reach me: dom.mohamedramadan@live.com
 - 😄 Pronouns: Issa
